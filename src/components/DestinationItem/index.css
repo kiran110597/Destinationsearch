@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.destination-item {
+  list-style-type: none;
+  width: 200px;
+  margin-left: 30px;
+}
+.destination-image {
+  width: 200px;
+}
